@@ -24,8 +24,7 @@ class _LoginViewState extends State<LoginView> {
       "name":"Shusil Chakma",
       "title":"hi there!how are you",
       "time":"12.00 AM",
-      "count":"4",
-      "image":"https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720828800&semt=ais_user"
+      "count":"4"
     },
     {
       "name":"Shima Chakma",
